@@ -1,3 +1,4 @@
+const fetch = require('cross-fetch');
 const { SWIGGY_BASE_URL } = require('../../utils/constants');
 
 const getAllRestaurants = async (req, res) => {

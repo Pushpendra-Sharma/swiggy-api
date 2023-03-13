@@ -5,11 +5,22 @@
   "scripts": {
     "start": "node server/app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushpendra-Sharma/swiggy-api.git"
+  },
+  "author": "Pushpendra Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pushpendra-Sharma/swiggy-api/issues"
+  },
+  "homepage": "https://github.com/Pushpendra-Sharma/swiggy-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "cross-fetch": "^3.1.5",
     "dotenv": "^16.0.3",
-    "express": "^4.17.1"
+    "express": "^4.18.2",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
