@@ -1,5 +1,6 @@
 const fetch = require('cross-fetch');
 const { SWIGGY_BASE_URL } = require('../../utils/constants');
+const MOCK_RESPONSE_RESTAURANT_MENU = require('../../mocks/get.restaurantDetails.json');
 
 const getAllRestaurants = async (req, res) => {
   const { lat, lng } = req.query;
@@ -33,6 +34,8 @@ const getRestaurantMenu = async (req, res) => {
   const { lat, lng, menuId } = req.query;
   const url = `${SWIGGY_BASE_URL}/menu/v4/full?lat=${lat}&lng=${lng}&menuId=${menuId}`;
 
+  /**
+   
   fetch(url, {
     headers: {
       'Content-Type': 'application/json',
@@ -54,6 +57,10 @@ const getRestaurantMenu = async (req, res) => {
       console.error(error);
       res.status(500).json({ success: false, message: error });
     });
+
+   */
+
+  res.json(MOCK_RESPONSE_RESTAURANT_MENU);
 };
 
 const getSearchResults = async (req, res) => {
