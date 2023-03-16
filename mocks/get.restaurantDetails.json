@@ -1,0 +1,4697 @@
+{
+  "statusCode": 0,
+  "data": {
+    "experiments": [
+      {
+        "experimentId": "menu_via_timeline",
+        "variantId": "true"
+      }
+    ],
+    "restaurantAttributes": [],
+    "id": "512017",
+    "name": "Aggarwal Sweets & Snacks",
+    "uuid": "3ee82728-49da-4035-9385-cb32d7c30050",
+    "slug": "aggarwal-sweets-&-snacks-sector-50-sector-50-2",
+    "latLong": "28.599066623638784,77.37785947452159",
+    "city": "Noida 1",
+    "area": "Gautam Buddha Nagar",
+    "areaPostalCode": "0",
+    "areaSlug": "sector 50",
+    "restaurantSlug": {
+      "restaurant": "aggarwal-sweets-&-snacks-sector-50-sector-50-2",
+      "city": "noida-1"
+    },
+    "type": "F",
+    "locality": "Sector - 71",
+    "avgRating": 2.5,
+    "totalRatings": 20,
+    "avgRatingString": "2.5",
+    "totalRatingsString": "20+ ratings",
+    "cloudinaryImageId": "ldkgdczorpgechuangt4",
+    "costForTwo": 25000,
+    "costForTwoMsg": "₹250 for two",
+    "cuisines": [
+      "Desserts"
+    ],
+    "minimumOrder": 0,
+    "opened": 1,
+    "parentId": 27722,
+    "isNew": false,
+    "isVeg": false,
+    "favorite": false,
+    "multiOutlet": true,
+    "restaurantServiceLine": [
+      "REGULAR"
+    ],
+    "sla": {
+      "slaString": "23 MINS",
+      "lastMileDistanceString": "5.9 kms",
+      "restaurantId": "512017",
+      "deliveryTime": 23,
+      "minDeliveryTime": 23,
+      "maxDeliveryTime": 23,
+      "lastMileTravel": 5.9,
+      "thirtyMinOrFree": false,
+      "serviceability": "SERVICEABLE",
+      "stressFactor": 0.7816421985626221,
+      "rainMode": "NONE",
+      "longDistance": "NOT_LONG_DISTANCE",
+      "preferentialService": false,
+      "batchable": false,
+      "stress": {
+        "value": 0.3333333432674408,
+        "components": {
+          "de": 0.3333333432674408
+        }
+      },
+      "surge": {
+        "applicable": false,
+        "components": [
+          {
+            "value": 0,
+            "type": "STRESS"
+          }
+        ]
+      },
+      "zoneId": 2829
+    },
+    "availability": {
+      "nextCloseTime": "2023-02-28 11:59:00",
+      "nextChangeTime": 1677565740000,
+      "visibility": true,
+      "opened": true
+    },
+    "badges": {
+      "imageBased": [],
+      "textBased": [],
+      "textExtendedBadges": []
+    },
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "C 65 sector 71 ,noida , SECTOR-71 NOIDA, NOIDA CITY ZONE-3, Gautam Buddha Nagar , Uttar Pradesh - 201301"
+      },
+      {
+        "title": "Cuisines",
+        "message": "Desserts"
+      }
+    ],
+    "thirdPartyAddress": false,
+    "menu": {
+      "items": {
+        "88257756": {
+          "id": 88257756,
+          "name": "Sponge Rasgulla (Per Pc)",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 4000,
+          "final_price": 3600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257757": {
+          "id": 88257757,
+          "name": "Rasmalai",
+          "category": "Sweets",
+          "description": "Rasmalai is a classic Indian festive dessert made with milk, an acidic ingredient, sugar and saffron.",
+          "cloudinaryImageId": "rknf5eo9jmjxjp7unoad",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 5000,
+          "final_price": 4500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968316",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "Per Pc",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235834",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968316",
+                    "order": 999
+                  },
+                  {
+                    "name": "10 Pc",
+                    "price": 40000,
+                    "default": 0,
+                    "id": "45235835",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968316",
+                    "order": 998
+                  },
+                  {
+                    "name": "20 Pc",
+                    "price": 80000,
+                    "default": 0,
+                    "id": "45235836",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968316",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257758": {
+          "id": 88257758,
+          "name": "Gulab Jamun",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 6000,
+          "final_price": 5400,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968317",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "2 Pieces",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235837",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968317",
+                    "order": 999
+                  },
+                  {
+                    "name": "250 Grams",
+                    "price": 9000,
+                    "default": 0,
+                    "id": "45235838",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968317",
+                    "order": 998
+                  },
+                  {
+                    "name": "500 Grams",
+                    "price": 24000,
+                    "default": 0,
+                    "id": "45235839",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968317",
+                    "order": 997
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 54000,
+                    "default": 0,
+                    "id": "45235840",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968317",
+                    "order": 996
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257760": {
+          "id": 88257760,
+          "name": "Black Rashbari",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 12000,
+          "final_price": 10800,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968319",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235844",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968319",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 12000,
+                    "default": 0,
+                    "id": "45235845",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968319",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 36000,
+                    "default": 0,
+                    "id": "45235846",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968319",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257761": {
+          "id": 88257761,
+          "name": "Milk Cake",
+          "category": "Sweets",
+          "description": "Indian cake made with solidified cream milk, Sugar and clarified butter",
+          "cloudinaryImageId": "vgevhsjii402eys2hcto",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 12000,
+          "final_price": 10800,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968320",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235847",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968320",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 12000,
+                    "default": 0,
+                    "id": "45235848",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968320",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 36000,
+                    "default": 0,
+                    "id": "45235849",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968320",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257762": {
+          "id": 88257762,
+          "name": "Kalakand",
+          "category": "Sweets",
+          "description": "Kalakand Recipe/Sweet - Kalakand is a popular Indian sweet and is served during festivals and special occasions. It is made with mainly two ingredients milk and sugar. Kalakand is moist, juicy, tastes delicious & has a delicate grainy texture.",
+          "cloudinaryImageId": "sv6mlaham2nfjv6izyvn",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 12000,
+          "final_price": 10800,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968321",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235850",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968321",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 11000,
+                    "default": 0,
+                    "id": "45235851",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968321",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 33000,
+                    "default": 0,
+                    "id": "45235852",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968321",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257763": {
+          "id": 88257763,
+          "name": "Malai Chaap",
+          "category": "Sweets",
+          "description": "A flavor-packed malai chaap tossed with veggies and delectable masalas - perfect to satiate your cravings.",
+          "cloudinaryImageId": "ndhf2t0xzobooinfymfd",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 15000,
+          "final_price": 13500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968322",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Grams",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235853",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968322",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Grams",
+                    "price": 15000,
+                    "default": 0,
+                    "id": "45235854",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968322",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 45000,
+                    "default": 0,
+                    "id": "45235855",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968322",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257764": {
+          "id": 88257764,
+          "name": "Pista Burfi",
+          "category": "Sweets",
+          "description": "A rich, soft and sweet layered burfi prepared with milk solids and delicately flavoured with pistachios",
+          "cloudinaryImageId": "kdqnliev7v6zrxvgnoxi",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 15000,
+          "final_price": 13500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968323",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235856",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968323",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 15000,
+                    "default": 0,
+                    "id": "45235857",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968323",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 45000,
+                    "default": 0,
+                    "id": "45235858",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968323",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257765": {
+          "id": 88257765,
+          "name": "Besan Laddu",
+          "category": "Sweets",
+          "description": "A delightfully flavorful mastani flavored with wholesome Besan Laddu,perfect to refresh your senses.",
+          "cloudinaryImageId": "z9vhuaye3khhlr3pupqr",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9000,
+          "final_price": 8100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968324",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235859",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968324",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 9000,
+                    "default": 0,
+                    "id": "45235860",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968324",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 27000,
+                    "default": 0,
+                    "id": "45235861",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968324",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257766": {
+          "id": 88257766,
+          "name": "Motichoor Laddu",
+          "category": "Sweets",
+          "description": "A delightfully flavorful mastani flavored with wholesome motichoor laddu, perfect to refresh your senses.",
+          "cloudinaryImageId": "h3axrt4ras04ypk4gxpa",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9000,
+          "final_price": 8100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968325",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235862",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968325",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 9000,
+                    "default": 0,
+                    "id": "45235863",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968325",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 27000,
+                    "default": 0,
+                    "id": "45235864",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968325",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257767": {
+          "id": 88257767,
+          "name": "Desi Ghee Besan Laddu",
+          "category": "Todays Special Offer",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 15000,
+          "final_price": 13500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968326",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Grams",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235865",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968326",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Grams",
+                    "price": 15000,
+                    "default": 0,
+                    "id": "45235866",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968326",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 45000,
+                    "default": 0,
+                    "id": "45235867",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968326",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257768": {
+          "id": 88257768,
+          "name": "White Rasbhari",
+          "category": "Todays Special Offer",
+          "description": "White Rasbhari is made of cheese cottage and dipped in sugar syrup.",
+          "cloudinaryImageId": "emn3mqm0jdpglbsxzyb0",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 10000,
+          "final_price": 9000,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968327",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Grams",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235868",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968327",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Grams",
+                    "price": 10000,
+                    "default": 0,
+                    "id": "45235869",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968327",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 28000,
+                    "default": 0,
+                    "id": "45235870",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968327",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257769": {
+          "id": 88257769,
+          "name": "Desi Ghee Motichoor Laddu",
+          "category": "Todays Special Offer",
+          "description": "Desi Ghee Motichoor Ladoo is a round-shaped sweetmeat made from fine, tiny balls of besan cooked in desi ghee",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 15000,
+          "final_price": 13500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968328",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Grams",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235871",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968328",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Grams",
+                    "price": 15000,
+                    "default": 0,
+                    "id": "45235872",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968328",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 45000,
+                    "default": 0,
+                    "id": "45235873",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968328",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257771": {
+          "id": 88257771,
+          "name": "Desi Ghee Patisa",
+          "category": "Todays Special Offer",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 11500,
+          "final_price": 10400,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968330",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Grams",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235878",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968330",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Grams",
+                    "price": 11500,
+                    "default": 0,
+                    "id": "45235879",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968330",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 23500,
+                    "default": 0,
+                    "id": "45235880",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968330",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257776": {
+          "id": 88257776,
+          "name": "Patisa",
+          "category": "Todays Special Offer",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 7500,
+          "final_price": 6800,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968331",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Grams",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235881",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968331",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Grams",
+                    "price": 7500,
+                    "default": 0,
+                    "id": "45235882",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968331",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 22500,
+                    "default": 0,
+                    "id": "45235883",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968331",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257778": {
+          "id": 88257778,
+          "name": "Vrat Aloo Chaat [500 ml]",
+          "category": "Fast Special",
+          "description": "Vrat Aloo Ch",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257781": {
+          "id": 88257781,
+          "name": "Sabudana Khichdi and Curd Meal",
+          "category": "Fast Special",
+          "description": "Sabudana Kh",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257783": {
+          "id": 88257783,
+          "name": "Sabudana Kheer",
+          "category": "Fast Special",
+          "description": "Sabudana Kh",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257784": {
+          "id": 88257784,
+          "name": "Sama Rice Khichdi with Dahi",
+          "category": "Fast Special",
+          "description": "Sama Rice K",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257785": {
+          "id": 88257785,
+          "name": "Makhana Kheer",
+          "category": "Fast Special",
+          "description": "Makhana Kh",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257786": {
+          "id": 88257786,
+          "name": "2 Kuttu Ka Paratha with Curd",
+          "category": "Fast Special",
+          "description": "2 Kuttu Ka Pa",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257792": {
+          "id": 88257792,
+          "name": "Cucumber Raita",
+          "category": "Fast Special",
+          "description": "Cucumber Ra",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 8000,
+          "final_price": 7200,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257796": {
+          "id": 88257796,
+          "name": "Singhade Ki Poori",
+          "category": "Fast Special",
+          "description": "Singhade Ki P",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 2000,
+          "final_price": 1800,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257797": {
+          "id": 88257797,
+          "name": "Aloo Ki Sabzi",
+          "category": "Fast Special",
+          "description": "Aloo Ki Sabzi",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 6000,
+          "final_price": 5400,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257798": {
+          "id": 88257798,
+          "name": "Mini Thali",
+          "category": "Thali",
+          "description": "Mini Thali",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17900,
+          "final_price": 16100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257799": {
+          "id": 88257799,
+          "name": "Deluxe Thali",
+          "category": "Thali",
+          "description": "Deluxe Thali",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 19900,
+          "final_price": 17900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257800": {
+          "id": 88257800,
+          "name": "Peanut Chaat",
+          "category": "Chaat",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 7000,
+          "final_price": 6300,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968334",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "Half",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235889",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968334",
+                    "order": 999
+                  },
+                  {
+                    "name": "Full",
+                    "price": 4000,
+                    "default": 0,
+                    "id": "45235890",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968334",
+                    "order": 998
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257801": {
+          "id": 88257801,
+          "name": "Chana Chaat",
+          "category": "Chaat",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 6000,
+          "final_price": 5400,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968335",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "Half",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235891",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968335",
+                    "order": 999
+                  },
+                  {
+                    "name": "Full",
+                    "price": 4000,
+                    "default": 0,
+                    "id": "45235892",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968335",
+                    "order": 998
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257802": {
+          "id": 88257802,
+          "name": "Chatpata Aloo Chaat",
+          "category": "Chaat",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 6000,
+          "final_price": 5400,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968336",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "Half",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235893",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968336",
+                    "order": 999
+                  },
+                  {
+                    "name": "Full",
+                    "price": 4000,
+                    "default": 0,
+                    "id": "45235894",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968336",
+                    "order": 998
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257803": {
+          "id": 88257803,
+          "name": "Dahi",
+          "category": "Extra",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 4000,
+          "final_price": 3600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968337",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235895",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968337",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 3000,
+                    "default": 0,
+                    "id": "45235896",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968337",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 10300,
+                    "default": 0,
+                    "id": "45235897",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968337",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257804": {
+          "id": 88257804,
+          "name": "Paneer",
+          "category": "Extra",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 4500,
+          "final_price": 4100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "13968338",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "100 Gm",
+                    "price": 0,
+                    "default": 1,
+                    "id": "45235898",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968338",
+                    "order": 999
+                  },
+                  {
+                    "name": "250 Gm",
+                    "price": 6500,
+                    "default": 0,
+                    "id": "45235899",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968338",
+                    "order": 998
+                  },
+                  {
+                    "name": "500 Gm",
+                    "price": 17500,
+                    "default": 0,
+                    "id": "45235900",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968338",
+                    "order": 997
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 39500,
+                    "default": 0,
+                    "id": "45235901",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "13968338",
+                    "order": 996
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257805": {
+          "id": 88257805,
+          "name": "Banana Lassi",
+          "category": "Beverages",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257806": {
+          "id": 88257806,
+          "name": "Mango Lassi",
+          "category": "Beverages",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257807": {
+          "id": 88257807,
+          "name": "Cold Coffee",
+          "category": "Beverages",
+          "description": "A soothing shake made by blending cold coffee and ice cream together.",
+          "cloudinaryImageId": "trwvtn5v8kx6hdseghpf",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257808": {
+          "id": 88257808,
+          "name": "Sweet Lassi",
+          "category": "Beverages",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257809": {
+          "id": 88257809,
+          "name": "Salted Lassi",
+          "category": "Beverages",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257810": {
+          "id": 88257810,
+          "name": "Jal Jeera",
+          "category": "Beverages",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257811": {
+          "id": 88257811,
+          "name": "Shikanji",
+          "category": "Beverages",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257814": {
+          "id": 88257814,
+          "name": "Banana Milkshake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257815": {
+          "id": 88257815,
+          "name": "Mango Milkshake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257816": {
+          "id": 88257816,
+          "name": "Strawberry Milkshake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257817": {
+          "id": 88257817,
+          "name": "Kesar Pista Milkshake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257818": {
+          "id": 88257818,
+          "name": "Rose Flavored Milkshake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257820": {
+          "id": 88257820,
+          "name": "Pineapple Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257821": {
+          "id": 88257821,
+          "name": "Kiwi Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257822": {
+          "id": 88257822,
+          "name": "Mango With Bananas Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257823": {
+          "id": 88257823,
+          "name": "Honey With Banana Shake",
+          "category": "Shakes",
+          "description": "Banana shake is a sweetend drink made by blending rips banana, milk, honey, ice cream, flavorings and a sweetener.",
+          "cloudinaryImageId": "erelzruf7bbndjhuap0x",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257824": {
+          "id": 88257824,
+          "name": "Strawberry Bananas Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257825": {
+          "id": 88257825,
+          "name": "Butterscotch Shake",
+          "category": "Shakes",
+          "description": "Butterscotch milkshake is a yummylicious drink made from butterscotch ice cream and whole milk.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257826": {
+          "id": 88257826,
+          "name": "Blackcurrant Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257827": {
+          "id": 88257827,
+          "name": "Strawberry Shake",
+          "category": "Shakes",
+          "description": "A refreshing milkshake prepared with strawberry sauce, ice cream and wholesome milk - perfect to satisfy your cravings",
+          "cloudinaryImageId": "tnv2lhacjmzg138hxvgz",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257828": {
+          "id": 88257828,
+          "name": "Cold Coffee Shake",
+          "category": "Shakes",
+          "description": "An aromatic and energizing milkshake made of wholesome milk flavored with strong cold coffee shake.(Serve 1)",
+          "cloudinaryImageId": "mssryedzdd51xlpkbpam",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257829": {
+          "id": 88257829,
+          "name": "Chocolate Shake",
+          "category": "Shakes",
+          "description": "Enjoy our rich double chocolate delightful shake served chilled in reusable designer glass bottle.",
+          "cloudinaryImageId": "yynkuwtt5a64fetz4na3",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257830": {
+          "id": 88257830,
+          "name": "5 Star Chocolate Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257831": {
+          "id": 88257831,
+          "name": "Kit Kat Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "88257832": {
+          "id": 88257832,
+          "name": "Cadbury Dairy Milk Shake",
+          "category": "Shakes",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "final_price": 8900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "96130444": {
+          "id": 96130444,
+          "name": "Kaju Katli",
+          "category": "Sweets",
+          "description": "Kaju katli is a traditional Indian dessert characterized by its diamond shape, made with cashew nuts, sugar and cardamom powder.",
+          "cloudinaryImageId": "fvu88dlmkduzgamx3r4l",
+          "recommended": 1,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 30100,
+          "final_price": 27100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "17002128",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "56846157",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "17002128",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 29000,
+                    "default": 0,
+                    "id": "56846158",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "17002128",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 84000,
+                    "default": 0,
+                    "id": "56846159",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "17002128",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "98772146": {
+          "id": 98772146,
+          "name": "Jodhpuri",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 15100,
+          "final_price": 13600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "18421266",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "61831312",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421266",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 14000,
+                    "default": 0,
+                    "id": "61831313",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421266",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 41000,
+                    "default": 0,
+                    "id": "61831314",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421266",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "98772155": {
+          "id": 98772155,
+          "name": "Desi Mootichoor Laddu",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 15100,
+          "final_price": 13600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "18421267",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "61831315",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421267",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 14000,
+                    "default": 0,
+                    "id": "61831316",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421267",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 42000,
+                    "default": 0,
+                    "id": "61831317",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421267",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "ribbon": {
+            "text": "Bestseller",
+            "textColor": "#ffffff",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#b02331"
+          },
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": true,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "98772156": {
+          "id": 98772156,
+          "name": "Plain Burfi",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 18000,
+          "final_price": 16200,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "18421268",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "61831318",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421268",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 17500,
+                    "default": 0,
+                    "id": "61831319",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421268",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 51000,
+                    "default": 0,
+                    "id": "61831320",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421268",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "98772167": {
+          "id": 98772167,
+          "name": "Dodha Burfi",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 18000,
+          "final_price": 16200,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "18421269",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "61831321",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421269",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 17000,
+                    "default": 0,
+                    "id": "61831322",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421269",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 50000,
+                    "default": 0,
+                    "id": "61831323",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18421269",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "98827102": {
+          "id": 98827102,
+          "name": "Mix Sweets Box",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17900,
+          "final_price": 16100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "18444719",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "61914252",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18444719",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 17500,
+                    "default": 0,
+                    "id": "61914253",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18444719",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 51000,
+                    "default": 0,
+                    "id": "61914254",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "18444719",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103503670": {
+          "id": 103503670,
+          "name": "White Peda",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 20000,
+          "final_price": 18000,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21675360",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71422656",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675360",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 20000,
+                    "default": 0,
+                    "id": "71422657",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675360",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 60000,
+                    "default": 0,
+                    "id": "71422658",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675360",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103503671": {
+          "id": 103503671,
+          "name": "Rasbhari",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 15100,
+          "final_price": 13600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21675361",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71422659",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675361",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 15000,
+                    "default": 0,
+                    "id": "71422660",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675361",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 45000,
+                    "default": 0,
+                    "id": "71422661",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675361",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103503675": {
+          "id": 103503675,
+          "name": "Katlas ",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 20000,
+          "final_price": 18000,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21675363",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71422665",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675363",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 20000,
+                    "default": 0,
+                    "id": "71422666",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675363",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 60000,
+                    "default": 0,
+                    "id": "71422667",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675363",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103503904": {
+          "id": 103503904,
+          "name": "Brown Peda",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 20000,
+          "final_price": 18000,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21675380",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71422715",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675380",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 20000,
+                    "default": 0,
+                    "id": "71422716",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675380",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 60000,
+                    "default": 0,
+                    "id": "71422717",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675380",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103503905": {
+          "id": 103503905,
+          "name": "Khoya Kaju Burfi",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 22000,
+          "final_price": 19800,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21675381",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "1 Kg",
+                    "price": 63000,
+                    "default": 0,
+                    "id": "71422720",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675381",
+                    "order": 999
+                  },
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71422718",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675381",
+                    "order": 998
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 21000,
+                    "default": 0,
+                    "id": "71422719",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675381",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103503906": {
+          "id": 103503906,
+          "name": "Coconut Burfi",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 20000,
+          "final_price": 18000,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21675382",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71422721",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675382",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 20000,
+                    "default": 0,
+                    "id": "71422722",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675382",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 60000,
+                    "default": 0,
+                    "id": "71422723",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675382",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103503907": {
+          "id": 103503907,
+          "name": "Khoya Burfi",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 20000,
+          "final_price": 18000,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21675383",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71422724",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675383",
+                    "order": 999
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 20000,
+                    "default": 0,
+                    "id": "71422725",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675383",
+                    "order": 998
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 60000,
+                    "default": 0,
+                    "id": "71422726",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21675383",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "103588463": {
+          "id": 103588463,
+          "name": "Rewari Burfi",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 21000,
+          "final_price": 18900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "21695957",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "500 Gms",
+                    "price": 21000,
+                    "default": 0,
+                    "id": "71476224",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21695957",
+                    "order": 999
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 60000,
+                    "default": 0,
+                    "id": "71476225",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21695957",
+                    "order": 998
+                  },
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "71476223",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "21695957",
+                    "order": 997
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "106681874": {
+          "id": 106681874,
+          "name": "Gajar Ka Halwa ",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17000,
+          "final_price": 15300,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "23063288",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "75327150",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "23063288",
+                    "order": 0
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 17000,
+                    "default": 0,
+                    "id": "75327151",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "23063288",
+                    "order": 0
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 51000,
+                    "default": 0,
+                    "id": "75327152",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "23063288",
+                    "order": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        },
+        "111555467": {
+          "id": 111555467,
+          "name": "Gujiya",
+          "category": "Sweets",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17000,
+          "final_price": 15300,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "25046870",
+                "name": "Quantity",
+                "variations": [
+                  {
+                    "name": "250 Gms",
+                    "price": 0,
+                    "default": 1,
+                    "id": "79833580",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "25046870",
+                    "order": 0
+                  },
+                  {
+                    "name": "500 Gms",
+                    "price": 17000,
+                    "default": 0,
+                    "id": "79833581",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "25046870",
+                    "order": 0
+                  },
+                  {
+                    "name": "1 Kg",
+                    "price": 50000,
+                    "default": 0,
+                    "id": "79833583",
+                    "inStock": 1,
+                    "isVeg": 1,
+                    "variant_group_id": "25046870",
+                    "order": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "restId": "512017",
+          "showMC": 0,
+          "attributes": {
+            "portionSize": "",
+            "vegClassifier": "VEG",
+            "accompaniments": ""
+          },
+          "isHealthy": false,
+          "isBestSeller": false,
+          "itemNudgeType": "",
+          "isGuiltFree": false
+        }
+      },
+      "widgets": [
+        {
+          "name": "Recommended",
+          "subTitle": "",
+          "type": "recommended",
+          "entities": [
+            {
+              "id": 96130444,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257757,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257761,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257762,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257763,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257764,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257765,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257766,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257768,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257807,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257823,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257827,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257828,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            },
+            {
+              "id": 88257829,
+              "type": "item",
+              "showImg": true,
+              "showRibbon": false
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Sweets",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Desserts",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 103588463,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 103503671,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 96130444,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257756,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257757,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257758,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 98827102,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 106681874,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 111555467,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            },
+            {
+              "name": "Khoya",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257760,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257761,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 103503904,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 103503670,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            },
+            {
+              "name": "Bengali",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 103503675,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257762,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257763,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            },
+            {
+              "name": "Burfi",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 103503907,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 103503906,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 103503905,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 98772156,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257764,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 98772167,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            },
+            {
+              "name": "Laddu",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 98772155,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 98772146,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257765,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257766,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Todays Special Offer",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Todays Special Offer",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257767,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257768,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257769,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257771,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257776,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Fast Special",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Prepared Without Onion and Garlic",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257778,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257781,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257783,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257784,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257785,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257786,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257792,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257796,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257797,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Thali",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Thali",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257798,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257799,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Chaat",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Chaat",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257800,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257801,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257802,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Extra",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Dairy",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257803,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257804,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Beverages",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Beverages",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257805,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257806,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257807,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257808,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257809,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257810,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257811,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        },
+        {
+          "name": "Shakes",
+          "subTitle": "",
+          "type": "category",
+          "widgets": [
+            {
+              "name": "Shakes",
+              "type": "subcategory",
+              "entities": [
+                {
+                  "id": 88257814,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257815,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257816,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257817,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257818,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257820,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257821,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257822,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257823,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257824,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257825,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257826,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257827,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257828,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257829,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257830,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257831,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                },
+                {
+                  "id": 88257832,
+                  "type": "item",
+                  "showImg": false,
+                  "showRibbon": false
+                }
+              ],
+              "collapsible": true
+            }
+          ],
+          "perRow": 2,
+          "collapsible": false
+        }
+      ],
+      "layoutType": "normal",
+      "healthyCollection": []
+    },
+    "aggregatedDiscountInfo": {
+      "header": "10% off",
+      "shortDescriptionList": [
+        {
+          "meta": "10% off on all orders",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FREE DELIVERY",
+          "discountType": "FREE_DELIVERY",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "10% off on all orders",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FREE DELIVERY",
+          "discountType": "FREE_DELIVERY",
+          "operationType": "RESTAURANT"
+        }
+      ]
+    },
+    "offerMeta": [
+      {
+        "header": "FLAT 10% OFF",
+        "offer_tag": "",
+        "offer_logo": "offers/generic",
+        "top_logo": "",
+        "bottom_logo": "",
+        "offer_info": {
+          "offer_ids": [
+            "8836ed1b-071a-45d9-ad15-c5d5062af8b5"
+          ],
+          "type": "offers"
+        },
+        "expiry_time": 0,
+        "coupon_code": "NO CODE REQUIRED",
+        "description": "",
+        "secondary_discount_callout": "",
+        "show_expiry_timer": false
+      },
+      {
+        "header": "20% OFF UPTO ₹120",
+        "offer_tag": "",
+        "offer_logo": "rng/md/ads/production/1acdb97aadcb61b323307845bda86535",
+        "top_logo": "",
+        "bottom_logo": "rng/md/ads/production/1acdb97aadcb61b323307845bda86535",
+        "offer_info": {
+          "offer_ids": [
+            "68d41a53-c297-48e9-b3e0-054e3fd05845"
+          ],
+          "type": "offers"
+        },
+        "expiry_time": 0,
+        "coupon_code": "USE FEDERALCC",
+        "description": "ABOVE ₹249",
+        "secondary_discount_callout": "",
+        "show_expiry_timer": false
+      },
+      {
+        "header": "FLAT ₹100 OFF",
+        "offer_tag": "",
+        "offer_logo": "rng/md/ads/production/3a937ddacd3adb70c4543c4895213123",
+        "top_logo": "",
+        "bottom_logo": "rng/md/ads/production/3a937ddacd3adb70c4543c4895213123",
+        "offer_info": {
+          "offer_ids": [
+            "db599105-a5bd-481a-988f-ede0670a6b16"
+          ],
+          "type": "offers"
+        },
+        "expiry_time": 0,
+        "coupon_code": "USE AUDC100",
+        "description": "ABOVE ₹299",
+        "secondary_discount_callout": "",
+        "show_expiry_timer": false
+      }
+    ],
+    "itemNudgeBanners": {},
+    "aggregatedDiscountInfoV2": {
+      "header": "10% off",
+      "shortDescriptionList": [
+        {
+          "meta": "10% off on all orders",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FREE DELIVERY",
+          "discountType": "FREE_DELIVERY",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "10% off on all orders",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FREE DELIVERY",
+          "discountType": "FREE_DELIVERY",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCTAText": "",
+      "visible": false
+    },
+    "nudgeBanners": [
+      {
+        "minValue": 104.3,
+        "maxValue": 149,
+        "priority": 2,
+        "couponCode": "",
+        "discountInfo": {
+          "discountType": "FREE_DELIVERY",
+          "value": 0,
+          "operationType": "RESTAURANT"
+        },
+        "lockedMessage": "",
+        "unlockedMessage": "",
+        "minItemCount": 0,
+        "maxItemCount": 0,
+        "type": "",
+        "cta": {
+          "link": "",
+          "text": "",
+          "type": "",
+          "color": ""
+        }
+      }
+    ],
+    "restaurantLicenses": [
+      {
+        "type": "FSSAI",
+        "imageId": "fssai_final_edss9i",
+        "text": [
+          "License No. 22722924000650"
+        ]
+      }
+    ],
+    "menuTabs": [
+      {
+        "title": "Order Now",
+        "type": "menu",
+        "selected": true
+      }
+    ],
+    "vegOnlyDetails": {
+      "imageId": "AutoVegOnly_qkjowj",
+      "title": "Showing only vegetarian options.",
+      "description": "Tap on the VEG ONLY button to turn off the setting"
+    },
+    "gpInfoList": [],
+    "expectationNotifiers": [],
+    "menuCategory": [
+      {
+        "name": "Full Menu",
+        "identifier": "REGULAR",
+        "icon": "v1594205104/fullMenuActive_qcsdzt.png",
+        "unselectedIcon": "v1594205107/fullMenuInactive_fbdtp2.png",
+        "selected": true
+      }
+    ],
+    "xpConfigParams": {
+      "isNewHealthMenu": "false"
+    },
+    "cafe": false,
+    "preorderable": false,
+    "select": false,
+    "slotInvalid": false,
+    "requestId": "f5c42143-28d3-4b95-aa0c-4abe80cc5149",
+    "timeStamp": "1677537325761"
+  },
+  "tid": "468630eb-d0a4-4d59-8fdb-396129a74ebc",
+  "sid": "5ne0994d-7870-45b8-9d24-8d10ddfea4b8",
+  "deviceId": "b8581ea5-41af-63ee-1c9f-76f0125955c2",
+  "csrfToken": "mSZk2s28KMb4-3sHM6vKMZlpVsm4vH3cXyK0My3M"
+}

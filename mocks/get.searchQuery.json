@@ -1,0 +1,202 @@
+{
+    "statusCode": 0,
+    "data": {
+        "query": "sweet",
+        "highlightPreText": "{{",
+        "highlightPostText": "}}",
+        "suggestions": [
+            {
+                "text": "Sweets",
+                "highlightedText": "{{Sweet}}s",
+                "type": "DISH",
+                "tagToDisplay": "Dish",
+                "cloudinaryId": "dfqniumbcfryiola6cjz",
+                "tagToDisplayColor": "#686B78",
+                "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"dfqniumbcfryiola6cjz\",\"dishFamilyId\":\"846774\",\"dishFamilyIds\":[\"846774\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+                "cta": {
+                    "text": "Sweets",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Sweets&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22dfqniumbcfryiola6cjz%22%2C%22dishFamilyId%22%3A%22846774%22%2C%22dishFamilyIds%22%3A%5B%22846774%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Dish",
+                "subCategoryColor": "#686B78"
+            },
+            {
+                "text": "Sweet Corns Pizza",
+                "highlightedText": "{{Sweet}} Corns Pizza",
+                "type": "DISH",
+                "tagToDisplay": "Dish",
+                "cloudinaryId": "uqzrectz2etaxeyrpcat",
+                "tagToDisplayColor": "#686B78",
+                "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"uqzrectz2etaxeyrpcat\",\"dishFamilyId\":\"846647\",\"dishFamilyIds\":[\"846647\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+                "cta": {
+                    "text": "Sweet Corns Pizza",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Sweet%20Corns%20Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22uqzrectz2etaxeyrpcat%22%2C%22dishFamilyId%22%3A%22846647%22%2C%22dishFamilyIds%22%3A%5B%22846647%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Dish",
+                "subCategoryColor": "#686B78"
+            },
+            {
+                "text": "Hira Sweets",
+                "highlightedText": "Hira {{Sweet}}s",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "mhdozglimuncn5sydb3l",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":5155,\"primaryRestaurantId\":54412,\"cloudinaryId\":\"mhdozglimuncn5sydb3l\",\"brandId\":5155,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Hira Sweets",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Hira%20Sweets&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A5155%2C%22primaryRestaurantId%22%3A54412%2C%22cloudinaryId%22%3A%22mhdozglimuncn5sydb3l%22%2C%22brandId%22%3A5155%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            },
+            {
+                "text": "Aggarwal Bikaneri Sweets sector-27",
+                "highlightedText": "Aggarwal Bikaneri {{Sweet}}s sector-27",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "j8r7w0zkxzy1yjhoewjt",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":27669,\"primaryRestaurantId\":233409,\"cloudinaryId\":\"j8r7w0zkxzy1yjhoewjt\",\"brandId\":27669,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Aggarwal Bikaneri Sweets sector-27",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Aggarwal%20Bikaneri%20Sweets%20sector-27&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A27669%2C%22primaryRestaurantId%22%3A233409%2C%22cloudinaryId%22%3A%22j8r7w0zkxzy1yjhoewjt%22%2C%22brandId%22%3A27669%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            },
+            {
+                "text": "Bikaner's Sweets",
+                "highlightedText": "Bikaner's {{Sweet}}s",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "o2amcyjj7oqsoztkx0l5",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":13740,\"primaryRestaurantId\":57451,\"cloudinaryId\":\"o2amcyjj7oqsoztkx0l5\",\"brandId\":13740,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Bikaner's Sweets",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Bikaner%27s%20Sweets&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A13740%2C%22primaryRestaurantId%22%3A57451%2C%22cloudinaryId%22%3A%22o2amcyjj7oqsoztkx0l5%22%2C%22brandId%22%3A13740%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            },
+            {
+                "text": "Aggarwal Bikaneri Sweets",
+                "highlightedText": "Aggarwal Bikaneri {{Sweet}}s",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "vx3wpjl6ce3m335eqp7b",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":1810,\"primaryRestaurantId\":238811,\"cloudinaryId\":\"vx3wpjl6ce3m335eqp7b\",\"brandId\":1810,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Aggarwal Bikaneri Sweets",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Aggarwal%20Bikaneri%20Sweets&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A1810%2C%22primaryRestaurantId%22%3A238811%2C%22cloudinaryId%22%3A%22vx3wpjl6ce3m335eqp7b%22%2C%22brandId%22%3A1810%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            },
+            {
+                "text": "Hira Sweets & Confectionary Pvt.Ltd",
+                "highlightedText": "Hira {{Sweet}}s & Confectionary Pvt.Ltd",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "t4r3rxnrpuxlxnjbtixl",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":267318,\"primaryRestaurantId\":403547,\"cloudinaryId\":\"t4r3rxnrpuxlxnjbtixl\",\"brandId\":267318,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Hira Sweets & Confectionary Pvt.Ltd",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Hira%20Sweets%20%26%20Confectionary%20Pvt.Ltd&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A267318%2C%22primaryRestaurantId%22%3A403547%2C%22cloudinaryId%22%3A%22t4r3rxnrpuxlxnjbtixl%22%2C%22brandId%22%3A267318%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            },
+            {
+                "text": "JSB EVERGREEN SNACKS & SWEETS",
+                "highlightedText": "JSB EVERGREEN SNACKS & {{SWEET}}S",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "gla3lho2btvce1zcr7pi",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":111702,\"primaryRestaurantId\":291139,\"cloudinaryId\":\"gla3lho2btvce1zcr7pi\",\"brandId\":111702,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "JSB EVERGREEN SNACKS & SWEETS",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=JSB%20EVERGREEN%20SNACKS%20%26%20SWEETS&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A111702%2C%22primaryRestaurantId%22%3A291139%2C%22cloudinaryId%22%3A%22gla3lho2btvce1zcr7pi%22%2C%22brandId%22%3A111702%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            },
+            {
+                "text": "Brijwasi Sweets",
+                "highlightedText": "Brijwasi {{Sweet}}s",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "8d651e463c28ce1aeac7cedf21f3a031",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":13929,\"primaryRestaurantId\":98216,\"cloudinaryId\":\"8d651e463c28ce1aeac7cedf21f3a031\",\"brandId\":13929,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Brijwasi Sweets",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Brijwasi%20Sweets&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A13929%2C%22primaryRestaurantId%22%3A98216%2C%22cloudinaryId%22%3A%228d651e463c28ce1aeac7cedf21f3a031%22%2C%22brandId%22%3A13929%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            },
+            {
+                "text": "Bikaner's Sweets and Snacks",
+                "highlightedText": "Bikaner's {{Sweet}}s and Snacks",
+                "type": "RESTAURANT",
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "rcglp3bvvbkpmpxwfwba",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":399230,\"primaryRestaurantId\":355217,\"cloudinaryId\":\"rcglp3bvvbkpmpxwfwba\",\"brandId\":399230,\"dishFamilyId\":\"a66d3cc2-c876-4bd2-aead-ee9b2527a678\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Bikaner's Sweets and Snacks",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Bikaner%27s%20Sweets%20and%20Snacks&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A399230%2C%22primaryRestaurantId%22%3A355217%2C%22cloudinaryId%22%3A%22rcglp3bvvbkpmpxwfwba%22%2C%22brandId%22%3A399230%2C%22dishFamilyId%22%3A%22a66d3cc2-c876-4bd2-aead-ee9b2527a678%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "disabled": false
+            }
+        ]
+    },
+    "tid": "1de7ff96-c01d-4dc9-9035-ca068e43b3f9",
+    "sid": "5th3523e-bc47-4f94-89aa-9674f3205007",
+    "deviceId": "b8581ea5-41af-63ee-1c9f-76f0125955c2",
+    "csrfToken": "jA6waOgwDOAb-fcVEgkdqbFVPjhUi8HL0RkZzK04"
+}

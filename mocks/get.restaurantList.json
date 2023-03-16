@@ -1,0 +1,2461 @@
+ {
+  "statusCode": 0,
+  "data": {
+    "cacheExpiryTime": 320,
+    "pages": 1,
+    "pageIndex": 0,
+    "scrubber": 0,
+    "filters": [
+      {
+        "type": "FilterWidget",
+        "title": "Cuisines",
+        "key": "CUISINES",
+        "configType": "checkbox",
+        "visible": 1,
+        "options": [
+          {
+            "option": "American",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Arabian",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Asian",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Bakery",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Bengali",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Beverages",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Bihari",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Biryani",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Burgers",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Cafe",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Chaat",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Chinese",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Combo",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Continental",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Desserts",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Fast Food",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Grill",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Healthy Food",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Ice Cream",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Ice Cream Cakes",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Indian",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Italian",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Italian-American",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Juices",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Kebabs",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Lebanese",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Maharashtrian",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Mexican",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Middle Eastern",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Mughlai",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "North Indian",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Pastas",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Pizzas",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Punjabi",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Salads",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Seafood",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Snacks",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "South Indian",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Street Food",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Sweets",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Tandoor",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Thai",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Thalis",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Tibetan",
+            "selected": 0,
+            "visible": 1
+          },
+          {
+            "option": "Waffle",
+            "selected": 0,
+            "visible": 1
+          }
+        ],
+        "detail": "",
+        "heading": "Cuisines",
+        "applicable": 1,
+        "searchable": 1
+      },
+      {
+        "type": "FilterWidget",
+        "title": "Show Restaurants With",
+        "key": "SHOW_RESTAURANTS_WITH",
+        "configType": "checkbox",
+        "visible": 1,
+        "options": [
+          {
+            "option": "Pure Veg",
+            "selected": 0,
+            "visible": 1
+          }
+        ],
+        "detail": "",
+        "heading": "Offers & More",
+        "applicable": 1,
+        "searchable": 0
+      }
+    ],
+    "sorts": [
+      {
+        "type": "SortWidget",
+        "key": "RELEVANCE",
+        "title": "Relevance",
+        "selected": 1,
+        "visible": 1,
+        "defaultSelection": true
+      },
+      {
+        "type": "SortWidget",
+        "key": "DELIVERY_TIME",
+        "title": "Delivery Time",
+        "selected": 0,
+        "visible": 1,
+        "defaultSelection": false
+      },
+      {
+        "type": "SortWidget",
+        "key": "RATING",
+        "title": "Rating",
+        "selected": 0,
+        "visible": 1,
+        "defaultSelection": false
+      },
+      {
+        "type": "SortWidget",
+        "key": "COST_FOR_TWO",
+        "title": "Cost: Low to High",
+        "selected": 0,
+        "visible": 1,
+        "defaultSelection": false
+      },
+      {
+        "type": "SortWidget",
+        "key": "COST_FOR_TWO_H2L",
+        "title": "Cost: High to Low",
+        "selected": 0,
+        "visible": 1,
+        "defaultSelection": false
+      }
+    ],
+    "configs": {
+      "ribbons": {
+        "PREORDER": {
+          "type": "PREORDER",
+          "text": "Preorder",
+          "textColor": "#ffffff",
+          "imageId": "sfefefefeegeg",
+          "topBackgroundColor": "#d53d4c",
+          "bottomBackgroundColor": "#af2330",
+          "priority": 3
+        },
+        "EXCLUSIVE": {
+          "type": "EXCLUSIVE",
+          "text": "Exclusive",
+          "textColor": "#ffffff",
+          "imageId": "sfefefefeegeg",
+          "topBackgroundColor": "#fa4a5b",
+          "bottomBackgroundColor": "#d12a3b",
+          "priority": 2
+        },
+        "NEW": {
+          "type": "NEW",
+          "text": "Newly Added",
+          "textColor": "#ffffff",
+          "imageId": "sfefefefeegeg",
+          "topBackgroundColor": "#d53d4c",
+          "bottomBackgroundColor": "#af2330",
+          "priority": 4
+        },
+        "REPEAT": {
+          "type": "REPEAT",
+          "text": "Repeat",
+          "textColor": "#ffffff",
+          "imageId": "sfefefefeegeg",
+          "topBackgroundColor": "#D53D4C",
+          "bottomBackgroundColor": "#B02331",
+          "priority": 6
+        },
+        "CLOUD": {
+          "type": "CLOUD",
+          "text": "Daily Menus",
+          "textColor": "#ffffff",
+          "imageId": "sfefefefeegeg",
+          "topBackgroundColor": "#fa4a5b",
+          "bottomBackgroundColor": "#d12a3b",
+          "priority": 5
+        },
+        "PREMIUM": {
+          "type": "PREMIUM",
+          "text": "Premium",
+          "textColor": "#ffffff",
+          "imageId": "sfefefefeegeg",
+          "topBackgroundColor": "#8a584b",
+          "bottomBackgroundColor": "#583229",
+          "priority": 7
+        },
+        "PROMOTED": {
+          "type": "PROMOTED",
+          "text": "Promoted",
+          "textColor": "#ffffff",
+          "imageId": "sfefefefeegeg",
+          "topBackgroundColor": "#3a3c41",
+          "bottomBackgroundColor": "#1e2023",
+          "priority": 1
+        }
+      }
+    },
+    "cards": [
+      {
+        "cardType": "carousel",
+        "layoutAlignmentType": "VERTICAL",
+        "data": {
+          "type": "carousel",
+          "subtype": "topCarousel",
+          "data": {
+            "cards": [
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 635529,
+                  "creativeId": "rng/md/carousel/production/pneknawbadtvceqzwiep",
+                  "type": "restaurantCollectionV2",
+                  "link": "49301",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "thirdPartyVendor": "",
+                  "thirdPartyAddress": false
+                }
+              },
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 304829,
+                  "creativeId": "rng/md/carousel/production/jcjcvebiczqe5jr2vijo",
+                  "type": "restaurantCollectionV2",
+                  "link": "47667",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "thirdPartyVendor": "",
+                  "thirdPartyAddress": false
+                }
+              },
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 619141,
+                  "creativeId": "rng/md/carousel/production/zpkkdkmvlj5cuvqbc50t",
+                  "type": "restaurantCollectionV2",
+                  "link": "56413",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "thirdPartyVendor": "",
+                  "thirdPartyAddress": false
+                }
+              },
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 607193,
+                  "creativeId": "rng/md/carousel/production/s5ug2key6e2sptaxku5v",
+                  "type": "restaurantCollectionV2",
+                  "link": "56410",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "thirdPartyVendor": "",
+                  "thirdPartyAddress": false
+                }
+              },
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 607188,
+                  "creativeId": "rng/md/carousel/production/oxe97jexxbnxqtbhg2zo",
+                  "type": "restaurantCollectionV2",
+                  "link": "11740",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "thirdPartyVendor": "",
+                  "thirdPartyAddress": false
+                }
+              },
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 607195,
+                  "creativeId": "rng/md/carousel/production/ifi2lbzxeu1hvsqrsip3",
+                  "type": "restaurantCollectionV2",
+                  "link": "56421",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "thirdPartyVendor": "",
+                  "thirdPartyAddress": false
+                }
+              }
+            ]
+          }
+        },
+        "parentWidget": false
+      },
+      {
+        "cardType": "carousel",
+        "layoutAlignmentType": "VERTICAL",
+        "data": {
+          "type": "carousel",
+          "subtype": "openFilter",
+          "data": {
+            "cards": [
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 181684,
+                  "creativeId": "bkhjfipzydkoqncrxpyi",
+                  "type": "restaurantCollectionV2",
+                  "link": "11718",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "title": "Offers Near You",
+                  "subtitle": "0 OPTIONS",
+                  "restaurants": [],
+                  "totalCount": 0,
+                  "dwebOpenFilterTitle": "Offers Near You",
+                  "dwebOpenFilterBgColor": "#FF0000",
+                  "dwebOpenFilterSelectIcon": "eyperwsfhaoa5vktjtu4",
+                  "dwebOpenFilterDeselectIcon": "urw8usdf4mk9aywd59gq"
+                }
+              },
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 273242,
+                  "creativeId": "rng/md/carousel/production/vquntqrzvkb08pe59cec",
+                  "type": "restaurantCollectionV2",
+                  "link": "46147",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "title": "Top Picks",
+                  "subtitle": "0 OPTIONS",
+                  "restaurants": [],
+                  "totalCount": 0,
+                  "dwebOpenFilterTitle": "Top Picks",
+                  "dwebOpenFilterBgColor": "#FF0000",
+                  "dwebOpenFilterSelectIcon": "rng/md/carousel/production/vt13uzhjrg5r49kh9oru",
+                  "dwebOpenFilterDeselectIcon": "rng/md/carousel/production/ser2sttildk9yt7t2s91"
+                }
+              },
+              {
+                "type": "carouselElement",
+                "subtype": "image",
+                "data": {
+                  "bannerId": 181680,
+                  "creativeId": "a3jqjjod5taken7dh1bs",
+                  "type": "restaurantCollectionV2",
+                  "link": "11721",
+                  "cityId": 0,
+                  "restaurantUuid": "",
+                  "restaurantParentId": "0",
+                  "title": "Veg Only",
+                  "subtitle": "0 OPTIONS",
+                  "restaurants": [],
+                  "totalCount": 0,
+                  "dwebOpenFilterTitle": "Vegetarian Options",
+                  "dwebOpenFilterBgColor": "#FF0000",
+                  "dwebOpenFilterSelectIcon": "qtjc8dzfexg72lug37a0",
+                  "dwebOpenFilterDeselectIcon": "bm8bziikwyvwqsml1clm"
+                }
+              }
+            ]
+          }
+        },
+        "parentWidget": false
+      },
+      {
+        "cardType": "seeAllRestaurants",
+        "layoutAlignmentType": "VERTICAL",
+        "data": {
+          "type": "seeAllRestaurants",
+          "data": {
+            "title": "SEE ALL",
+            "totalOpenRestaurants": 319,
+            "cards": [
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "512017",
+                  "name": "Aggarwal Sweets & Snacks",
+                  "uuid": "3ee82728-49da-4035-9385-cb32d7c30050",
+                  "city": "10459",
+                  "area": "Gautam Buddha Nagar",
+                  "totalRatingsString": "20+ ratings",
+                  "cloudinaryImageId": "ldkgdczorpgechuangt4",
+                  "cuisines": [
+                    "Desserts"
+                  ],
+                  "tags": [],
+                  "costForTwo": 25000,
+                  "costForTwoString": "₹250 FOR TWO",
+                  "deliveryTime": 23,
+                  "minDeliveryTime": 23,
+                  "maxDeliveryTime": 23,
+                  "slaString": "23 MINS",
+                  "lastMileTravel": 5.900000095367432,
+                  "slugs": {
+                    "restaurant": "aggarwal-sweets-&-snacks-sector-50-sector-50-2",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "C 65 sector 71 ,noida , SECTOR-71 NOIDA, NOIDA CITY ZONE-3, Gautam Buddha Nagar , Uttar Pradesh - 201301",
+                  "locality": "Sector - 71",
+                  "parentId": 27722,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "10% off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "10% off on all orders",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      },
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "10% off on all orders",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      },
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "10% OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Free Delivery",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "10% off on all orders",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      },
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "5.9 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "512017",
+                    "deliveryTime": 23,
+                    "minDeliveryTime": 23,
+                    "maxDeliveryTime": 23,
+                    "lastMileTravel": 5.900000095367432,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "2.6",
+                  "totalRatings": 20,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "177495",
+                  "name": "La Pino'z Pizza",
+                  "uuid": "e879581e-3f0e-4c60-ae09-79b19ceac6bc",
+                  "city": "10459",
+                  "area": "Hajipur",
+                  "totalRatingsString": "1000+ ratings",
+                  "cloudinaryImageId": "ugemttaiukyqfhxkfs9i",
+                  "cuisines": [
+                    "Pizzas",
+                    "Italian"
+                  ],
+                  "tags": [],
+                  "costForTwo": 30000,
+                  "costForTwoString": "₹300 FOR TWO",
+                  "deliveryTime": 33,
+                  "minDeliveryTime": 33,
+                  "maxDeliveryTime": 33,
+                  "slaString": "33 MINS",
+                  "lastMileTravel": 6.5,
+                  "slugs": {
+                    "restaurant": "la-pinoz-pizza-sector-104-golf-course",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "GT01, Basement, Opp Pathways School, Sector 104, Noida - 201301",
+                  "locality": "Pathways School Road",
+                  "parentId": 4961,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "FREE DELIVERY",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Free Delivery",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "ribbon": [
+                    {
+                      "type": "PROMOTED"
+                    }
+                  ],
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "cid=6010031~p=1~eid=00000186-9502-a518-424d-71530086013c",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "6.5 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "177495",
+                    "deliveryTime": 33,
+                    "minDeliveryTime": 33,
+                    "maxDeliveryTime": 33,
+                    "lastMileTravel": 6.5,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": true,
+                  "avgRating": "3.7",
+                  "totalRatings": 1000,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "58216",
+                  "name": "Biryani Mahal",
+                  "uuid": "08c52d74-7c0a-485d-8baf-9d90525be659",
+                  "city": "10459",
+                  "area": "Sector 6",
+                  "totalRatingsString": "1000+ ratings",
+                  "cloudinaryImageId": "brpcfdahz5mlxwdhy3z5",
+                  "cuisines": [
+                    "Biryani",
+                    "Mughlai",
+                    "Chinese",
+                    "North Indian"
+                  ],
+                  "tags": [],
+                  "costForTwo": 50000,
+                  "costForTwoString": "₹500 FOR TWO",
+                  "deliveryTime": 20,
+                  "minDeliveryTime": 20,
+                  "maxDeliveryTime": 20,
+                  "slaString": "20 MINS",
+                  "lastMileTravel": 3.700000047683716,
+                  "slugs": {
+                    "restaurant": "biryani-mahal-sector-2-sector-18",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "B 86 sector 6 Noida ",
+                  "locality": "",
+                  "parentId": 9902,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "FLAT125 off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FLAT125 off  | Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT125 off  | Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "₹125 OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT125 off  | Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "3.7 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "58216",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "lastMileTravel": 3.700000047683716,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "4.1",
+                  "totalRatings": 1000,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "40143",
+                  "name": "Chawla-Chicken.com",
+                  "uuid": "9831e262-9955-42e1-b262-5ddfab3c778a",
+                  "city": "10459",
+                  "area": "Sector 6",
+                  "totalRatingsString": "1000+ ratings",
+                  "cloudinaryImageId": "sz0xmpjm2yug2jakcpcw",
+                  "cuisines": [
+                    "North Indian",
+                    "Chinese",
+                    "Biryani",
+                    "Mughlai"
+                  ],
+                  "tags": [],
+                  "costForTwo": 30000,
+                  "costForTwoString": "₹300 FOR TWO",
+                  "deliveryTime": 21,
+                  "minDeliveryTime": 21,
+                  "maxDeliveryTime": 21,
+                  "slaString": "21 MINS",
+                  "lastMileTravel": 3.700000047683716,
+                  "slugs": {
+                    "restaurant": "chawla-chickencom-sector-2-dwarka",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "B 86 sector 6 Noida",
+                  "locality": "B Block",
+                  "parentId": 5340,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "FLAT125 off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FLAT125 off  | Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT125 off  | Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "₹125 OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT125 off  | Use LNBINGE",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "3.7 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "40143",
+                    "deliveryTime": 21,
+                    "minDeliveryTime": 21,
+                    "maxDeliveryTime": 21,
+                    "lastMileTravel": 3.700000047683716,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "4.0",
+                  "totalRatings": 1000,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "404309",
+                  "name": "Yours Truly Butter Chicken",
+                  "uuid": "df7a0f02-1726-46b9-b169-b1fd832bd1bb",
+                  "city": "10459",
+                  "area": "Sector 72",
+                  "totalRatingsString": "100+ ratings",
+                  "cloudinaryImageId": "oyfbizgcygqu2ahcracf",
+                  "cuisines": [
+                    "North Indian",
+                    "Indian",
+                    "Kebabs",
+                    "Biryani"
+                  ],
+                  "tags": [],
+                  "costForTwo": 50000,
+                  "costForTwoString": "₹500 FOR TWO",
+                  "deliveryTime": 41,
+                  "minDeliveryTime": 41,
+                  "maxDeliveryTime": 41,
+                  "slaString": "41 MINS",
+                  "lastMileTravel": 6.400000095367432,
+                  "slugs": {
+                    "restaurant": "yours-truly-butter-chicken-sector-50-sector-50",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "Kitchen No 3-4, 1st Floor, Sunder Complex, Hanuman Marg, Sarfabad, Sector 73, Noida, UP 201304",
+                  "locality": "Hanuman Marg",
+                  "parentId": 10615,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "FLAT150 off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FLAT150 off | Use FLATDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT150 off | Use FLATDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "₹150 OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use FLATDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT150 off | Use FLATDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "ribbon": [
+                    {
+                      "type": "PROMOTED"
+                    }
+                  ],
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "cid=5868838~p=4~eid=00000186-9502-a518-424d-715400860453",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "6.4 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "404309",
+                    "deliveryTime": 41,
+                    "minDeliveryTime": 41,
+                    "maxDeliveryTime": 41,
+                    "lastMileTravel": 6.400000095367432,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": true,
+                  "avgRating": "4.2",
+                  "totalRatings": 100,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "296750",
+                  "name": "Gupta Paratha Corner",
+                  "uuid": "72e2ee33-dd7f-40d9-8459-be6b0c03894c",
+                  "city": "10459",
+                  "area": "Sector 41",
+                  "totalRatingsString": "500+ ratings",
+                  "cloudinaryImageId": "vrs8mqqqxuvr2gndewrm",
+                  "cuisines": [
+                    "North Indian",
+                    "Chinese"
+                  ],
+                  "tags": [],
+                  "costForTwo": 20000,
+                  "costForTwoString": "₹200 FOR TWO",
+                  "deliveryTime": 21,
+                  "minDeliveryTime": 21,
+                  "maxDeliveryTime": 21,
+                  "slaString": "21 MINS",
+                  "lastMileTravel": 3.5999999046325684,
+                  "slugs": {
+                    "restaurant": "aggrwal-restaurant-sector-64-sector-64",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "Ground floor main dadri road ghapur, sector 41 noida, sector-41 noida city zone-04, gautam buddha nagar uttar pradesh-201303",
+                  "locality": "Golf Course",
+                  "parentId": 327444,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "FREE DELIVERY",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Free Delivery",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "3.5 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "296750",
+                    "deliveryTime": 21,
+                    "minDeliveryTime": 21,
+                    "maxDeliveryTime": 21,
+                    "lastMileTravel": 3.5999999046325684,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "4.0",
+                  "totalRatings": 500,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "135385",
+                  "name": "Chandni Chowk Ke Mashhoor Paranthe",
+                  "uuid": "d971f2a7-d5af-47a1-8dd0-ecb89e157c5c",
+                  "city": "10459",
+                  "area": "Sector 18",
+                  "totalRatingsString": "100+ ratings",
+                  "cloudinaryImageId": "ec3c3a0cdeb60385ec12132e648bf408",
+                  "cuisines": [
+                    "North Indian",
+                    "Street Food"
+                  ],
+                  "tags": [],
+                  "costForTwo": 20000,
+                  "costForTwoString": "₹200 FOR TWO",
+                  "deliveryTime": 27,
+                  "minDeliveryTime": 27,
+                  "maxDeliveryTime": 27,
+                  "slaString": "27 MINS",
+                  "lastMileTravel": 2.5999999046325684,
+                  "slugs": {
+                    "restaurant": "chandni-chowk-ke-mashhoor-parathe-golf-course",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "F 25 second floor Savitri Market Sector 18 Noida",
+                  "locality": "Golf Course Road",
+                  "parentId": 5412,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "FREE DELIVERY",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Free Delivery",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "2.5 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "135385",
+                    "deliveryTime": 27,
+                    "minDeliveryTime": 27,
+                    "maxDeliveryTime": 27,
+                    "lastMileTravel": 2.5999999046325684,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "4.3",
+                  "totalRatings": 100,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "375729",
+                  "name": "Oops Its Chinese",
+                  "uuid": "57a0fb7b-c6b2-48bf-9cba-bc3d4fb37813",
+                  "city": "10459",
+                  "area": "Sector 72",
+                  "totalRatingsString": "100+ ratings",
+                  "cloudinaryImageId": "gdwk0yypfe8f6ckq6hhf",
+                  "cuisines": [
+                    "Chinese",
+                    "Seafood",
+                    "Thai"
+                  ],
+                  "tags": [],
+                  "costForTwo": 35000,
+                  "costForTwoString": "₹350 FOR TWO",
+                  "deliveryTime": 33,
+                  "minDeliveryTime": 33,
+                  "maxDeliveryTime": 33,
+                  "slaString": "33 MINS",
+                  "lastMileTravel": 6.400000095367432,
+                  "slugs": {
+                    "restaurant": "oops-its-chines-sector-50-sector-50",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "Shop no 15 Ground floor Sunder shopping complex Khasra No 239 Village sarfabad Noida sector 73 SECTOR73 NOIDA 201304",
+                  "locality": "Sundar Shopping Complex",
+                  "parentId": 152501,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "30% off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "30% off | Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "30% off up to ₹75 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "30% OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "30% off up to ₹75 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "ribbon": [
+                    {
+                      "type": "PROMOTED"
+                    }
+                  ],
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "cid=6004487~p=7~eid=00000186-9502-a518-424d-71550086070f",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "6.4 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "375729",
+                    "deliveryTime": 33,
+                    "minDeliveryTime": 33,
+                    "maxDeliveryTime": 33,
+                    "lastMileTravel": 6.400000095367432,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": true,
+                  "avgRating": "4.1",
+                  "totalRatings": 100,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "36732",
+                  "name": "BS Gulati's Punjabi Swad",
+                  "uuid": "908a508a-367b-4158-b9b6-1bbd7d9a6e3f",
+                  "city": "10459",
+                  "area": "Sector 18",
+                  "totalRatingsString": "50+ ratings",
+                  "cloudinaryImageId": "bwtjprsyfrjugcbv0iyu",
+                  "cuisines": [
+                    "Mughlai",
+                    "Tandoor",
+                    "North Indian",
+                    "Chinese"
+                  ],
+                  "tags": [],
+                  "costForTwo": 30000,
+                  "costForTwoString": "₹300 FOR TWO",
+                  "deliveryTime": 22,
+                  "minDeliveryTime": 22,
+                  "maxDeliveryTime": 22,
+                  "slaString": "22 MINS",
+                  "lastMileTravel": 2.5999999046325684,
+                  "slugs": {
+                    "restaurant": "bsgulatis-punjabi-swad-sector-18-sector-18",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "G-8/3, Savitri Market, Sector 18, Noida",
+                  "locality": "Savitri Market Road",
+                  "parentId": 5332,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "FREE DELIVERY",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Free Delivery",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FREE DELIVERY",
+                        "discountType": "FREE_DELIVERY",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "2.5 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "36732",
+                    "deliveryTime": 22,
+                    "minDeliveryTime": 22,
+                    "maxDeliveryTime": 22,
+                    "lastMileTravel": 2.5999999046325684,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "4.3",
+                  "totalRatings": 50,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "341799",
+                  "name": "OIC KITCHEN DESIRE TO FIRE",
+                  "uuid": "e2d85cc2-8432-4b41-a2ce-44225f9f761d",
+                  "city": "10459",
+                  "area": "Sector 72",
+                  "totalRatingsString": "100+ ratings",
+                  "cloudinaryImageId": "xbg8owfdynucfgqzqlsv",
+                  "cuisines": [
+                    "Chinese",
+                    "Thai",
+                    "Seafood"
+                  ],
+                  "tags": [],
+                  "costForTwo": 40000,
+                  "costForTwoString": "₹400 FOR TWO",
+                  "deliveryTime": 34,
+                  "minDeliveryTime": 34,
+                  "maxDeliveryTime": 34,
+                  "slaString": "34 MINS",
+                  "lastMileTravel": 6.400000095367432,
+                  "slugs": {
+                    "restaurant": "oic-kitchen-–-desire-to-fire-sector-50-sector-50",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "SHOP NO. 15, GROUND FLOOR,SUNDER SHOPPING COMPLEX, TEHSIL DADRI GAUTAM BUDH NAGAR,, SECTOR-73 NOIDA, NOIDA CITY ZONE-4, Gautam Buddha Nagar , Uttar Pradesh, 201304",
+                  "locality": "Sunder Shopping Complex",
+                  "parentId": 151207,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "Flat ₹200 off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "FLAT200 off | Use SWIGGIESTDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT200 off | Use SWIGGIESTDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "₹200 OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use SWIGGIESTDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "FLAT200 off | Use SWIGGIESTDEAL",
+                        "discountType": "Flat",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "ribbon": [
+                    {
+                      "type": "PROMOTED"
+                    }
+                  ],
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "cid=5961559~p=10~eid=00000186-9502-a518-424d-715600860a12",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "6.4 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "341799",
+                    "deliveryTime": 34,
+                    "minDeliveryTime": 34,
+                    "maxDeliveryTime": 34,
+                    "lastMileTravel": 6.400000095367432,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": true,
+                  "avgRating": "4.2",
+                  "totalRatings": 100,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "346634",
+                  "name": "OLD CAFE 18",
+                  "uuid": "ac71604a-fcc5-4e30-af53-20b2030a5aa0",
+                  "city": "10459",
+                  "area": "Sector 18",
+                  "totalRatingsString": "500+ ratings",
+                  "cloudinaryImageId": "la8elnqzixyvi274s0qd",
+                  "cuisines": [
+                    "Pizzas",
+                    "Snacks",
+                    "Beverages"
+                  ],
+                  "tags": [],
+                  "costForTwo": 9900,
+                  "costForTwoString": "₹99 FOR TWO",
+                  "deliveryTime": 23,
+                  "minDeliveryTime": 23,
+                  "maxDeliveryTime": 23,
+                  "slaString": "23 MINS",
+                  "lastMileTravel": 2.5999999046325684,
+                  "slugs": {
+                    "restaurant": "old-cafe-18-sector-18-sector-18",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "Savitri Market, Pocket A, Sector 18, Noida, Uttar Pradesh, India",
+                  "locality": "Savitri Market Road",
+                  "parentId": 151272,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "50% off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "50% off | Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "50% OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "2.5 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "346634",
+                    "deliveryTime": 23,
+                    "minDeliveryTime": 23,
+                    "maxDeliveryTime": 23,
+                    "lastMileTravel": 2.5999999046325684,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "3.6",
+                  "totalRatings": 500,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "371758",
+                  "name": "Keventers Ice Cream",
+                  "uuid": "f28581e7-c816-486a-81ca-c3fb49f607da",
+                  "city": "10459",
+                  "area": "Sector 72",
+                  "totalRatingsString": "50+ ratings",
+                  "cloudinaryImageId": "9c48cf6a2cb98312346ec3c4aa12af8e",
+                  "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                  ],
+                  "tags": [],
+                  "costForTwo": 20000,
+                  "costForTwoString": "₹200 FOR TWO",
+                  "deliveryTime": 23,
+                  "minDeliveryTime": 23,
+                  "maxDeliveryTime": 23,
+                  "slaString": "23 MINS",
+                  "lastMileTravel": 6.400000095367432,
+                  "slugs": {
+                    "restaurant": "keventers-ice-creamery-noida-sec-73-dark-kitchen-amrapali-dream-valley",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "Keventers at Shop No- 27 to 38, First Floor, Sundar Shopping Complex,Sarfabad, Sector- 73, Noida",
+                  "locality": "Sundar Shopping Complex",
+                  "parentId": 272044,
+                  "unserviceable": false,
+                  "veg": true,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "20% off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "20% off | Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "20% off up to ₹50 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "20% OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "20% off up to ₹50 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "6.4 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "371758",
+                    "deliveryTime": 23,
+                    "minDeliveryTime": 23,
+                    "maxDeliveryTime": 23,
+                    "lastMileTravel": 6.400000095367432,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "4.6",
+                  "totalRatings": 50,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "552139",
+                  "name": "Pour Vous Chocolatier",
+                  "uuid": "62f45dc1-b54a-43eb-8cc0-84bb1260978c",
+                  "city": "10459",
+                  "area": "Sector 3",
+                  "totalRatingsString": "100+ ratings",
+                  "cloudinaryImageId": "830cf7d921f462e474bf9ca99a43156e",
+                  "cuisines": [
+                    "Sweets",
+                    "Bakery",
+                    "Desserts",
+                    "Ice Cream"
+                  ],
+                  "tags": [],
+                  "costForTwo": 30000,
+                  "costForTwoString": "₹300 FOR TWO",
+                  "deliveryTime": 27,
+                  "minDeliveryTime": 27,
+                  "maxDeliveryTime": 27,
+                  "slaString": "27 MINS",
+                  "lastMileTravel": 3,
+                  "slugs": {
+                    "restaurant": "pour-vous-chocolatier-sector-18-sector-18",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "Office No. F- 09, First Floor, A-26, Sector-3,  Noida, SECTOR-3 NOIDA, NOIDA CITY  ZONE-1, Gautam Buddha Nagar , Uttar  Pradesh - 201301",
+                  "locality": "A Block",
+                  "parentId": 331759,
+                  "unserviceable": false,
+                  "veg": true,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "30% off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "30% off | Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "30% off up to ₹75 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "30% OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "30% off up to ₹75 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "ribbon": [
+                    {
+                      "type": "PROMOTED"
+                    }
+                  ],
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "cid=5979501~p=13~eid=00000186-9502-a518-424d-715700860d7e",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "3 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "552139",
+                    "deliveryTime": 27,
+                    "minDeliveryTime": 27,
+                    "maxDeliveryTime": 27,
+                    "lastMileTravel": 3,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": true,
+                  "avgRating": "4.4",
+                  "totalRatings": 100,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "69485",
+                  "name": "Gupta Ji Malai Chaap Wale",
+                  "uuid": "f5232a47-43fb-4c73-9978-38471504bc88",
+                  "city": "10459",
+                  "area": "Vasundhara Enclave",
+                  "totalRatingsString": "100+ ratings",
+                  "cloudinaryImageId": "byhiy4bkqonfaxflgz4u",
+                  "cuisines": [
+                    "Indian",
+                    "Chinese"
+                  ],
+                  "tags": [],
+                  "costForTwo": 20000,
+                  "costForTwoString": "₹200 FOR TWO",
+                  "deliveryTime": 23,
+                  "minDeliveryTime": 23,
+                  "maxDeliveryTime": 23,
+                  "slaString": "23 MINS",
+                  "lastMileTravel": 4.599999904632568,
+                  "slugs": {
+                    "restaurant": "gupta-food-point-and-veg-chaap-sector-18-sector-18",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "B-1/9, Main Road, New Ashok Nagar, Delhi-110096",
+                  "locality": "A Block",
+                  "parentId": 13694,
+                  "unserviceable": false,
+                  "veg": false,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "40% off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "40% off | Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "40% OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "4.5 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "69485",
+                    "deliveryTime": 23,
+                    "minDeliveryTime": 23,
+                    "maxDeliveryTime": 23,
+                    "lastMileTravel": 4.599999904632568,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "3.9",
+                  "totalRatings": 100,
+                  "new": false
+                },
+                "subtype": "basic"
+              },
+              {
+                "type": "restaurant",
+                "data": {
+                  "type": "F",
+                  "id": "124724",
+                  "name": "Gupta Food Point and Veg Chaap",
+                  "uuid": "0af53043-4752-4cf7-9966-25a562c85414",
+                  "city": "10459",
+                  "area": "Vasundhara Enclave",
+                  "totalRatingsString": "100+ ratings",
+                  "cloudinaryImageId": "mvwec5f1irfamdkdnazm",
+                  "cuisines": [
+                    "North Indian",
+                    "Chinese",
+                    "Tandoor"
+                  ],
+                  "tags": [],
+                  "costForTwo": 15000,
+                  "costForTwoString": "₹150 FOR TWO",
+                  "deliveryTime": 23,
+                  "minDeliveryTime": 23,
+                  "maxDeliveryTime": 23,
+                  "slaString": "23 MINS",
+                  "lastMileTravel": 4.5,
+                  "slugs": {
+                    "restaurant": "overnight-food-express-test-siddardha",
+                    "city": "noida-1"
+                  },
+                  "cityState": "10459",
+                  "address": "B-1/9, Main Road, New Ashok Nagar, Delhi-110096",
+                  "locality": "New Ashok Nagar",
+                  "parentId": 230719,
+                  "unserviceable": false,
+                  "veg": true,
+                  "select": false,
+                  "favorite": false,
+                  "tradeCampaignHeaders": [],
+                  "aggregatedDiscountInfo": {
+                    "header": "40% off",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "40% off | Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "aggregatedDiscountInfoV2": {
+                    "header": "40% OFF",
+                    "shortDescriptionList": [
+                      {
+                        "meta": "Use TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "descriptionList": [
+                      {
+                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                      }
+                    ],
+                    "subHeader": "",
+                    "headerType": 0,
+                    "superFreedel": ""
+                  },
+                  "chain": [],
+                  "feeDetails": {
+                    "fees": [],
+                    "totalFees": 0,
+                    "message": "",
+                    "title": "",
+                    "amount": "",
+                    "icon": ""
+                  },
+                  "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                  },
+                  "longDistanceEnabled": 0,
+                  "rainMode": "NONE",
+                  "thirdPartyAddress": false,
+                  "thirdPartyVendor": "",
+                  "adTrackingID": "",
+                  "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                  },
+                  "lastMileTravelString": "4.5 kms",
+                  "hasSurge": false,
+                  "sla": {
+                    "restaurantId": "124724",
+                    "deliveryTime": 23,
+                    "minDeliveryTime": 23,
+                    "maxDeliveryTime": 23,
+                    "lastMileTravel": 4.5,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                  },
+                  "promoted": false,
+                  "avgRating": "3.9",
+                  "totalRatings": 100,
+                  "new": false
+                },
+                "subtype": "basic"
+              }
+            ],
+            "totalRestaurants": 319
+          },
+          "subtype": "personalized"
+        },
+        "parentWidget": false
+      }
+    ],
+    "nextPageFetch": 0
+  },
+  "tid": "468630eb-d0a4-4d59-8fdb-396129a74ebc",
+  "sid": "5ne0994d-7870-45b8-9d24-8d10ddfea4b8",
+  "deviceId": "b8581ea5-41af-63ee-1c9f-76f0125955c2",
+  "csrfToken": "88pBE5MyDtx6-C2UUe9Pi4txgA6OLAuw1VU12-HQ"
+}
